@@ -5,13 +5,10 @@ import styled from 'styled-components';
 export default function Footer(props) {
 
 
-
-
     return (
         <>
         <FooterDiv>
             {props.completed}/8 Concluídos
-           
             </FooterDiv>
         </>
 
@@ -43,22 +40,6 @@ const FooterDiv = styled.div`
   padding: 10px 0px 20px 0px;
 
 `
-/* 
-const FooterAnswer = styled.div`
-  width: 100%;
-  position: fixed;
-  bottom: 0;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  font-family: 'Recursive';
-  color: #333333;
-  padding: 5px;
 
-  img{
-    width:25px;
-    margin:0px 5px;
-  }
-`
- */
+
 
