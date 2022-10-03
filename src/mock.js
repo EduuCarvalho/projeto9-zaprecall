@@ -1,43 +1,35 @@
 const DECK = [
 {
-    nQuestion: "Pergunta 1",
-    question : "Oque é tibia 111?",
-    answer : "O melhor MMORpg do mundo111!"
+    question : "O que é JSX? ",
+    answer : "Uma extensão de linguagem do JavaScript"
 },
 {
-    nQuestion: "Pergunta 2",
-    question : "Oque é tibia 222?",
-    answer : "O melhor MMORpg do mundo222!"
+    question : "O React é __ ",
+    answer : "Uma biblioteca JavaScript para construção de interfaces"
 },
 {
-    nQuestion: "Pergunta 3",
-    question : "Oque é tibia333?",
-    answer : "O melhor MMORpg do mundo3333!"
+    question : "Componentes devem iniciar com __ ",
+    answer : "Letra maiúscula"
 },
 {
-    nQuestion: "Pergunta 4",
-    question : "Oque é tibia?4444",
-    answer : "O melhor MMORpg do mundo!4444"
+    question : "OPodemos colocar __ dentro do JSX",
+    answer : "Expressões"
 },
 {
-    nQuestion: "Pergunta 5",
-    question : "Oque é tibia?555",
-    answer : "O melhor MMORpg do mundo!5555"
+    question : "O ReactDOM nos ajuda __ ",
+    answer : "Interagindo com a DOM para colocar componentes React na mesma"
 },
 {
-    nQuestion: "Pergunta 6",
-    question : "Oque é tibia6666?",
-    answer : "O melhor MMORpg do mundo666!"
+    question : "Usamos o npm para __",
+    answer : "Gerenciar os pacotes necessários e suas dependências"
 },
 {
-    nQuestion: "Pergunta 7",
-    question : "Oque é tibia7777?",
-    answer : "O melhor MMORpg do mundo!7777"
+    question : "Usamos props para __ ",
+    answer : "Passar diferentes informações para componentes "
 },
 {
-    nQuestion: "Pergunta 8",
-    question : "Oque é tibia888?",
-    answer : "O melhor MMORpg do mundo8888!"
+    question : "Usamos estado (state) para __",
+    answer : "Informações, quando atualizadas devem renderizar a tela novamente"
 },
 
 ];
